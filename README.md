@@ -1,15 +1,15 @@
 # BOSCO Today
 
-Current website: https://luka9333.github.io/Bosco/guide/
-Direct PDF: https://luka9333.github.io/Bosco/BOSCO-Today-Revised.pdf
+Open the book: https://luka9333.github.io/Bosco/book/
+Scrolling view: https://luka9333.github.io/Bosco/book/read.html
+PDF: https://luka9333.github.io/Bosco/BOSCO-Today-Revised.pdf
 
-A four-page daily guide following the original PDF design and the owner’s requested revisions.
+A four-page park guide with physical soft-paper page turns, moving shadows, Previous/Next buttons, keyboard navigation and zoom. The original cream/green PDF design and programme content are preserved.
 
-1. Cover: supplied park map, 36 animals/four continents fact and three animal-session highlights.
-2. Your afternoon: noon to 6 PM, with matching Kids/Families/Adults audience and title colours.
-3. Good to know: original information plus chef’s recommendation, drink of the day and proposed smash-burger offer.
-4. Into the evening: 6 to 11 PM, with the original Luka profile and user-supplied travel fact at the bottom.
+The owner requested the new animal headline “36 animals. Countless personalities.”, an introduction to 36 animals from four continents, and the keepers behind the paws, feathers and scales. The exact credit is “Powered by AlMawel”.
 
-Every page includes the original park logo and “Powered by Al Mawel”. Proposed schedules, menus and offers need park confirmation. The manager photo remains a placeholder until a real portrait is supplied.
+The real HTML page content remains editable, including each manager’s introduction and interesting fact. The scrolling view offers a responsive reading alternative. Printing returns the same four-page guide. Park facts and Luka’s travel fact were supplied by the owner; schedules, menus and offers remain examples for review.
 
-Published at the user’s request. Root and /guide/ contain the same self-contained browser guide. The earlier animated deck remains recoverable from Git history.
+Root, /guide/ and /book/ serve the same self-contained book reader. The public website and revisions are authorized by the owner. Main-branch project files are preserved.
+
+StPageFlip 2.0.7 is MIT licensed. Its notice is embedded in the HTML, and its full license is in LICENSE-StPageFlip.txt. No CDN or tracking is used.
